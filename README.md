@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](https://i.imgur.com/XOtyAWr.gif)
+<img src="https://i.imgur.com/XOtyAWr.gif" width="300" height="600"/>
+
 
 
 GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
